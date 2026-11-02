@@ -18,10 +18,9 @@ An experiment in using AI to make candidate evaluation a little more structured 
 ### 🧭 Boolean Search Builder
 A sourcing tool for turning messy job requirements into better searches and talent-mapping ideas.
 
-### 🤖 AI Automation Workflow
-An n8n project I built to explore where automation can genuinely help and where human judgment should take over.
+### 🤖 AI Intake Automation
 
-The workflow combines intake, validation, Google Sheets, an AI agent, human-review routing, and email handling.
+A prototype I built in n8n to automate the first pass of client intake: validate incoming data, check available services, use AI to recommend a route, and send unclear cases for human review.
 
 ### 🌐 Yapay
 A website I built while learning HTML and basic web development.
